@@ -11,3 +11,6 @@ Fork:- Cloning someone's repo in Github directly
 Clone:-Getting into local machine....Using GIT
 
 Branches:-working commits
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+
