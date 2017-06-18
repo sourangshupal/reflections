@@ -3,3 +3,11 @@ Hello Moto!!!
 How is the staging area different from the working directory and the repository? What value do you think it offers?
 
 YuP!!!!
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+
+Fork:- Cloning someone's repo in Github directly
+
+Clone:-Getting into local machine....Using GIT
+
+Branches:-working commits
